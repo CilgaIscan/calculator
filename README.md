@@ -1,5 +1,5 @@
 # calculator
-
+Demo @ https://nervous-brown-93bca9.netlify.app
 ## Project setup
 ```
 yarn install
